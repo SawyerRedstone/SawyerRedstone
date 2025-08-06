@@ -7,11 +7,11 @@
   </div>
 </div>
 
-Hey there, I'm Sawyer! :octocat:
+Hey there. I'm Sawyer! :octocat:
 
-✨ I'm an enthusiastic coder and love opportunities to get creative with my work! I am most experienced with Python, but I've worked in C++, Prolog, p5.js, and many other languages.
+I'm an enthusiastic coder and love opportunities to get creative with my work. I am most experienced with Python, but I've worked in C++, Prolog, p5.js, and many other languages.
 
-⚡ My current obsession is machine learning! I've just started submitting contest entries to Kaggle, and I don't see myself stopping any time soon.
+(I may have a *slight* obsession with machine learning.)
 
 <!-- ### Hi there 👋 -->
 
